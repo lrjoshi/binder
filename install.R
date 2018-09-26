@@ -3,7 +3,7 @@ library(dplyr)
 library(stringr)
 library(DT)
 library(shinythemes)
-library(dplyr)
+library(tidyverse)
 library (stringr)
    
    
